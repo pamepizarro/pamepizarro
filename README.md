@@ -4,6 +4,7 @@
 - 📫 How to reach me: pamepizarro@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied Physics and Meteorology. I worked with meteorological data from stations, models, and imagery. Also, I used to work as a teacher.
+- 🇨🇱 I was born and live in Chile, and Spanish is my native language. Also, I speak 🇬🇧 as my second language.
   
 <!--
 **pamepizarro/pamepizarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
